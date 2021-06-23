@@ -1,0 +1,4 @@
+[submodule "submodules/employee-repository"]
+	path = submodules/employee-repository
+	url = https://github.com/satheeshchepuri/employee-repository.git
+	branch = develop
